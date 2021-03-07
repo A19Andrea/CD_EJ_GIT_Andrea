@@ -1,1 +1,3 @@
-Esto es el readme modificado x2
+Alba Mariño Oliveira
+
+a19albamo@iessanclemente.net
